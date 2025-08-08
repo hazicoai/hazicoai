@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey, I’m Hazi
 
-<!--
-**hazicoai/hazicoai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build mobile apps and backend APIs using:
+- Flutter
+- Node.js / FastAPI
+- Firebase / Supabase
 
-Here are some ideas to get you started:
+🧠 Passionate about automation, affiliate tools, and cross-platform development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 Currently building:
+- Telegram shopping assistant bot
+- Distributed cloud file storage app (Drive + Dropbox + OneDrive)
+
+📫 Reach me: hazicoai@email.com
