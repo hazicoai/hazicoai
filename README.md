@@ -7,8 +7,4 @@
 
 🧠 Passionate about automation, affiliate tools, and cross-platform development.
 
-📦 Currently building:
-- Telegram shopping assistant bot
-- Distributed cloud file storage app (Drive + Dropbox + OneDrive)
-
 📫 Reach me: hazicoai@email.com
